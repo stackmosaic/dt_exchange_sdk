@@ -1,0 +1,35 @@
+PODS:
+  - dt_exchange_sdk (0.0.1):
+    - Flutter
+    - Fyber_Marketplace_SDK (= 8.4.2)
+  - Flutter (1.0.0)
+  - Fyber_Marketplace_SDK (8.4.2)
+  - integration_test (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - dt_exchange_sdk (from `.symlinks/plugins/dt_exchange_sdk/ios`)
+  - Flutter (from `Flutter`)
+  - integration_test (from `.symlinks/plugins/integration_test/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Fyber_Marketplace_SDK
+
+EXTERNAL SOURCES:
+  dt_exchange_sdk:
+    :path: ".symlinks/plugins/dt_exchange_sdk/ios"
+  Flutter:
+    :path: Flutter
+  integration_test:
+    :path: ".symlinks/plugins/integration_test/ios"
+
+SPEC CHECKSUMS:
+  dt_exchange_sdk: 87ea77c5238b4d6ec83775aecc453a3b3e28c6ae
+  Flutter: cabc95a1d2626b1b06e7179b784ebcf0c0cde467
+  Fyber_Marketplace_SDK: 47267f7f78339628a159ceb30392f03d62a52271
+  integration_test: 4a889634ef21a45d28d50d622cf412dc6d9f586e
+
+PODFILE CHECKSUM: 4aacfdc341fb7cf6baaa947b9ce8955a4aaff78f
+
+COCOAPODS: 1.16.2
